@@ -1,4 +1,4 @@
-package host.exp.exponent.notifications.channels;
+package versioned.host.exp.exponent.modules.universal.notifications.channels;
 
 import android.content.Context;
 
